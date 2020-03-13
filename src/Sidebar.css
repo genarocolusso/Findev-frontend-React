@@ -1,0 +1,21 @@
+aside {
+  width: 320px;
+  background-color: #fff;
+  box-shadow: o o 14px o rgba(0, 0, 0, 0.02);
+  border-radius: 2px;
+  padding: 30px 20px;
+}
+
+aside strong {
+  font-size: 20px;
+  text-align: center;
+  display: block;
+  color: #333;
+}
+
+ 
+@media (max-width: 990px) {
+  aside {
+    width: 100%;
+  }
+}
