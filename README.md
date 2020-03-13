@@ -1,3 +1,9 @@
+
+## Findev React Study
+This project is a react /node/express/mongoDB study
+
+ [![Preview](https://github.com/genarocolusso/Findev-frontend-React/blob/master/preview.jpg?raw=true "Preview")](https://github.com/genarocolusso/Findev-frontend-React/blob/master/preview.jpg?raw=true "Preview")
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
